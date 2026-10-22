@@ -3,11 +3,29 @@
   "displayName": "Trench",
   "description": "A deep slate-blue dark theme with teal, orange and pink accents",
   "version": "0.1.0",
-  "publisher": "local",
+  "publisher": "RobertRamos",
   "license": "MIT",
-  "engines": { "vscode": "^1.80.0" },
-  "categories": ["Themes"],
-  "keywords": ["theme", "dark", "slate", "blue", "teal"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/robertwramos/trench-vscode.git"
+  },
+  "bugs": {
+    "url": "https://github.com/robertwramos/trench-vscode/issues"
+  },
+  "homepage": "https://github.com/robertwramos/trench-vscode#readme",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark",
+    "slate",
+    "blue",
+    "teal"
+  ],
   "contributes": {
     "themes": [
       {
