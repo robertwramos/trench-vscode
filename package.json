@@ -4,6 +4,7 @@
   "description": "A deep slate-blue dark theme with teal, orange and pink accents",
   "version": "0.1.0",
   "publisher": "RobertRamos",
+  "icon": "assets/icon.png",
   "license": "MIT",
   "repository": {
     "type": "git",

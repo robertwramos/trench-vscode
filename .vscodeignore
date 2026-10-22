@@ -3,3 +3,4 @@ scripts/**
 .vscode/**
 **/*.vsix
 images/**
+assets/icon.svg
