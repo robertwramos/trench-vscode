@@ -4,3 +4,4 @@ scripts/**
 **/*.vsix
 images/**
 assets/icon.svg
+.tool-versions
